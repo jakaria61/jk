@@ -1,0 +1,30 @@
+/*
+
+design body
+
+*/
+
+ #personal-section{
+ 
+ }
+ .content{
+   color:black; 
+   font-size:120%;
+
+
+ }
+ .left-div{
+   width: 30%; 
+   float: left;
+ }
+ .Right-div{
+   width: 70%;
+   float:right; 
+ }
+ h1{
+ 	background-color:pink;
+ }
+ body{
+ 	
+ 	background-color:#F1F1F1;
+ }
