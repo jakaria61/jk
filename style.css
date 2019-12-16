@@ -4,27 +4,27 @@ design body
 
 */
 
- #personal-section{
- 
- }
- .content{
-   color:black; 
-   font-size:120%;
-
-
- }
  .left-div{
-   width: 30%; 
-   float: left;
- }
- .Right-div{
-   width: 70%;
-   float:right; 
- }
- h1{
- 	background-color:pink;
- }
- body{
- 	
- 	background-color:#F1F1F1;
- }
+    width:30% ;
+ float: left;
+}
+.right-div{
+    width: 70%;
+    float: left;
+
+}
+body{
+    
+     font-family:normal;
+     background-color: #80ced6; 
+}
+p{
+	color: black;
+	font-size:15px; 
+}
+h2{
+  color: blue;
+  font:50px;
+  background-color: #F4F9FA;
+  text-align: center; 
+}
